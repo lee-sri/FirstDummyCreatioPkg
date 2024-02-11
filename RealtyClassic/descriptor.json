@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b7e2783-cf2f-e158-fbc0-0c73c4b57dad",
+    "Name": "RealtyClassic",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1707588126000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/RealtyClassic.csproj",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}
